@@ -55,3 +55,5 @@ def load_library(file_path)
   end
   output
 end
+
+def get_english_meaning(file_path, em
