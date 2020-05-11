@@ -56,4 +56,7 @@ def load_library(file_path)
   output
 end
 
-def get_english_meaning(file_path, em
+def get_english_meaning(file_path, emoticon)
+  load_library(file_path)
+  
+end
